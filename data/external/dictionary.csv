@@ -1,0 +1,11 @@
+variavel,definição,chave
+sobrevivência,Sobrevivência,"0 = Não, 1 = Sim"
+pclass,Classe do bilhete,"1 = 1º, 2 = 2º, 3 = 3º"
+sexo,Sexo,
+Idade,Idade em anos,
+SIBSP,# de irmãos/cônjuges a bordo do Titanic,
+Parch,# de pais/filhos a bordo do Titanic,
+bilhete,Número do bilhete,
+tarifa,Tarifa de passageiro,
+cabine,Número da cabine,
+Embarcou,Porto de Embarque,"C = Cherbourg, Q = Queenstown, S = Southampton"
