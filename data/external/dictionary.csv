@@ -12,6 +12,5 @@ who,"Categoriza o passageiro em homem, mulher e criança",qualitativa,nominal
 adult_male,Indica se o passageiro é um homem adulto,qualitativa,nominal
 deck,Indica a sessão do navio,qualitativa,nominal
 embark_town,Cidade de embarque,qualitativa,nominal
-embark_town,Cidade de embarque,qualitativa,nominal
 alive,Indica se o passageiro está vivo,qualitativa,nominal
 alone,Indica se o passageiro viajava sozinho,qualitativa,nominal
