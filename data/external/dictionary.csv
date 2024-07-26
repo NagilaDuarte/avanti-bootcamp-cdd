@@ -1,0 +1,16 @@
+variavel,descricao,tipo,subtipo
+survived,Binário (0 ou 1) - Indica se o passageiro sobreviveu ou não,qualitativa,nominal
+pclass,Classe da passagem,qualitativa,ordinal
+sex,Sexo dos passageiros,qualitativa,nominal
+age,Idade,quantitativa,continua
+sibsp,Quantidade de irmãos e cônjuges a bordo,quantitativa,discreta
+parch,"Quantidade de filhos e enteados, pai ou mãe - 0 para quem foi somente com baba",quantitativa,discreta
+fare,Valor da passagem,quantitativa,continua
+embarked,Portão de embarque,qualitativa,nominal
+class,Classe da passagem,qualitativa,ordinal
+who,"Categoriza o passageiro em homem, mulher e criança",qualitativa,nominal
+adult_male,Indica se o passageiro é um homem adulto,qualitativa,nominal
+deck,Indica a sessão do navio,qualitativa,nominal
+embark_town,Cidade de embarque,qualitativa,nominal
+alive,Indica se o passageiro está vivo,qualitativa,nominal
+alone,Indica se o passageiro viajava sozinho,qualitativa,nominal
