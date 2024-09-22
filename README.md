@@ -1,6 +1,7 @@
-# Titanic - Aprendizado de máquina de desastre
+# Projeto Titanic - Análise de Sobrevivência
 
-Comece aqui! Preveja a sobrevivência no Titanic e familiarize-se com os conceitos básicos de ML.
+## Resumo do Projeto
+O objetivo deste projeto é realizar uma análise detalhada dos dados dos passageiros a bordo do Titanic para determinar os principais fatores que influenciaram suas chances de sobrevivência. Utilizando técnicas de Ciência de Dados, foram aplicados processos de limpeza, transformação e modelagem dos dados para desenvolver modelos preditivos que classificam a probabilidade de sobrevivência dos passageiros. O projeto inclui a análise de variáveis categóricas e contínuas, a criação de pipelines de pré-processamento e a comparação de diferentes algoritmos de classificação, como Decision Tree, Random Forest, K-Nearest Neighbors, e Logistic Regression, utilizando validação cruzada para avaliar o desempenho dos modelos.
 
 ## Desenvolvedora
  - [Nágila Duarte](https://github.com/NagilaDuarte)
